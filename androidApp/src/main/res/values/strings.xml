@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Star Wars</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">next</string>
+    <string name="swipe_to_continue">Swipe to continue</string>
+    <string name="welcome">Welcome to Star Wars</string>
+
+    <string name="slider_title_1">Get all Character</string>
+    <string name="slider_desc_1">Lorem, ipsum dolor sit amet consectetur adipisicing elit.  quia nesciunt, qui saepe fugiat, incidunt quo.</string>
+    <string name="slider_title_2">Character Profile</string>
+    <string name="slider_desc_2">Reiciendis quia nesciunt, qui saepe fugiat, incidunt quo obcaecati deserunt minima consecteturReiciendis.</string>
+    <string name="start">Get Started</string>
+</resources>
